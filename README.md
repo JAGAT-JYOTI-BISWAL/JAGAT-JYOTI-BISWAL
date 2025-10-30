@@ -31,7 +31,7 @@
   🌿🌻🌿
 </p>
 
-## 🌷 Featured Projects
+## 🌺 Featured Projects
 
 ### 🌷 [Portfolio Website](https://lipun-portfolio.netlify.app)
 > A nature-inspired personal site built with HTML, CSS, JS — reflecting peace and clarity.  
