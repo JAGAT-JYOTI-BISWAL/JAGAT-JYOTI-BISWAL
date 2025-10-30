@@ -76,8 +76,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagatjyotibiswal"><img src="https://img.shields.io/badge/LinkedIn-accbee?style=for-the-badge&logo=linkedin&logoColor=3b3b3b"/></a>
-  <a href="https://github.com/JAGAT-JYOTI-BISWAL"><img src="https://img.shields.io/badge/GitHub-bde0fe?style=for-the-badge&logo=github&logoColor=3b3b3b"/></a>
-  <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-ffe5ec?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
+  <a href="https://github.com/JAGAT-JYOTI-BISWAL"><img src="https://img.shields.io/badge/GitHub-ffe5ec?style=for-the-badge&logo=github&logoColor=3b3b3b"/></a>
+  <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-bde0fe?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
 </p>
 
 <h4 align="center">✨ “Calm mind, clean code, and continuous growth.” ✨</h4>
