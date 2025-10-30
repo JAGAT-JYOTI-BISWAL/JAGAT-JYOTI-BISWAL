@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Calm%20Consistency-fbadb2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-2a4d14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-a7c957?style=for-the-badge"/>
 </p>
 
 ## 🌙 GitHub Presence
