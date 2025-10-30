@@ -65,14 +65,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGAT-JYOTI-BISWAL&layout=compact&theme=gruvbox_light&hide_border=true"/>
 </p>
 
-## 🍀 Philosophy
+## 🌱 Philosophy
 > “Code should breathe — clear, simple, alive.”  
 > I believe technology should enhance peace, not pressure.
 
 ## 🌙 Now
 > Currently exploring deeper system design with peace of mind.
 
-## 🌸 Connect With Me
+## 💖 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagatjyotibiswal"><img src="https://img.shields.io/badge/LinkedIn-accbee?style=for-the-badge&logo=linkedin&logoColor=3b3b3b"/></a>
@@ -80,5 +80,5 @@
   <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-ffe5ec?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
 </p>
 
-<p align="center">✫ “Calm mind, clean code, and continuous growth.” ✫</p>
-<p align="center">🌿 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">Jagat Jyoti Biswal</a></p>
+<p align="center">✨ “Calm mind, clean code, and continuous growth.” ✨</p>
+<p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">Jagat Jyoti Biswal</a></p>
