@@ -50,8 +50,8 @@
 > My goal: not speed, but consistency, calmness, and understanding.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Calm%20Consistency-9ebc9e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-ffb4a2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Calm%20Consistency-fbadb2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-2aae2a?style=for-the-badge"/>
 </p>
 
 ## 🌙 GitHub Presence
