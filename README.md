@@ -9,7 +9,7 @@
 <p align="center">
   🌾 I cultivate clean, meaningful systems — in <b>code</b> and <b>habits</b>.<br/>
   🌿 Nature's calm and clarity inspire everything I create.<br/>
-  🌳 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
+  🍃 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
   🌼 Exploring: <b>MERN Stack, Green UI Design, and Sustainable Coding</b>
 </p>
 
