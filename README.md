@@ -31,7 +31,7 @@
   🌿🌻🌿
 </p>
 
-## 🌺 Featured Projects
+## 🌼 Featured Projects
 
 ### 🌷 [Portfolio Website](https://lipun-portfolio.netlify.app)
 > A nature-inspired personal site built with HTML, CSS, JS — reflecting peace and clarity.  
@@ -45,7 +45,7 @@
 > Event-based ledger for small business clarity.  
 > One-tap entries, transparent adjustments, and clean visualization.
 
-## 🌼 Problem Solving Mindset
+## 🌸 Problem Solving Mindset
 > Practicing problem solving gently and patiently — 120+ DSA problems across Arrays, Strings, Searching, Sorting, and Recursion.  
 > My goal: not speed, but consistency, calmness, and understanding.
 
