@@ -33,7 +33,7 @@
 
 ## 🌷 Featured Projects
 
-### 🌷 [Portfolio Website](https://lipunjyoti-portfolio.netlify.app)
+### 🌷 [Portfolio Website](https://lipun-portfolio.netlify.app)
 > A nature-inspired personal site built with HTML, CSS, JS — reflecting peace and clarity.  
 > Dual-theme layout; semantic structure; accessible components.
 
