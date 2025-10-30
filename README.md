@@ -56,6 +56,17 @@
 </p>
 
 ---
+<p align="center">🌿🍃🌿</p>
+
+### 🌿 Philosophy
+> “Code should breathe — clear, simple, alive.”  
+> I believe technology should enhance peace, not pressure.
+
+### 🌙 Now
+> Currently exploring deeper system design with peace of mind.
+
+---
+
 
 ## 🌙 GitHub Presence
 
