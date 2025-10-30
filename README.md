@@ -92,3 +92,14 @@
 
 <h4 align="center">🌿 “Calm mind, clean code, and continuous growth.” 🌿</h4>
 <p align="center">🍃 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">Jagat Jyoti Biswal</a></p>
+
+<p align="center">🍃🍂🍃</p>
+
+### 🌿 Philosophy
+> “Code should breathe — clear, simple, alive.”  
+> I believe technology should enhance peace, not pressure.
+
+<p align="center">🍃🍂🍃</p>
+
+### 🌙 Now
+> Currently exploring deeper system design with peace of mind.
