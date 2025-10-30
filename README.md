@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  🌿🌳🌿
+  🌿🌻🌿
 </p>
 
 ## 🌷 Featured Projects
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-ffb4a2?style=for-the-badge"/>
 </p>
 
-## 🌲 GitHub Presence
+## 🌙 GitHub Presence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JAGAT-JYOTI-BISWAL&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" height="160"/>
@@ -69,7 +69,7 @@
 > “Code should breathe — clear, simple, alive.”  
 > I believe technology should enhance peace, not pressure.
 
-## 🌙 Now
+## 💫 Now
 > Currently exploring deeper system design with peace of mind.
 
 ## 💖 Connect With Me
@@ -80,5 +80,5 @@
   <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-ffe5ec?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
 </p>
 
-<p align="center">✨ “Calm mind, clean code, and continuous growth.” ✨</p>
+<h4 align="center">✨ “Calm mind, clean code, and continuous growth.” ✨</h4>
 <p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">Jagat Jyoti Biswal</a></p>
