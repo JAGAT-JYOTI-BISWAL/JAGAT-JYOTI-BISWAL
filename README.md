@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌱 I cultivate clean, meaningful systems — in <b>code</b> and <b>habits</b>.<br/>
+  🌾 I cultivate clean, meaningful systems — in <b>code</b> and <b>habits</b>.<br/>
   🌿 Nature's calm and clarity inspire everything I create.<br/>
   🌳 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
   🌼 Exploring: <b>MERN Stack, Green UI Design, and Sustainable Coding</b>
@@ -72,7 +72,7 @@
 ## 🌙 Now
 > Currently exploring deeper system design with peace of mind.
 
-## 🌺 Connect With Me
+## 🌸 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagatjyotibiswal"><img src="https://img.shields.io/badge/LinkedIn-accbee?style=for-the-badge&logo=linkedin&logoColor=3b3b3b"/></a>
