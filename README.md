@@ -15,7 +15,7 @@
 
 ---
 
-## 🌳 Tech & Tools
+## 🌀 Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-6a994e?style=for-the-badge&logo=openjdk&logoColor=fefae0"/>
@@ -45,7 +45,7 @@
 > Event-based ledger for small business clarity.  
 > One-tap entries, transparent adjustments, and clean visualization.
 
-## 🌸 Problem Solving Mindset
+## 🧠 Problem Solving Mindset
 > Practicing problem solving gently and patiently — 120+ DSA problems across Arrays, Strings, Searching, Sorting, and Recursion.  
 > My goal: not speed, but consistency, calmness, and understanding.
 
@@ -67,10 +67,10 @@
 
 ## 🌱 Philosophy
 > “Code should breathe — clear, simple, alive.”  
-> I believe technology should enhance peace, not pressure.
+> I believe technology should enhance peace🕊️, not pressure.
 
 ## 💫 Now
-> Currently exploring deeper system design with peace of mind.
+> Currently exploring deeper system design with peace of mind🧘.
 
 ## 💖 Connect With Me
 
@@ -80,5 +80,5 @@
   <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-bde0fe?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
 </p>
 
-<h4 align="center">✨ “Calm mind, clean code, and continuous growth.” ✨</h4>
-<p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">Jagat Jyoti Biswal</a></p>
+<h4 align="center">🪔 “Calm mind🧘‍♂️, clean code🪞, and continuous growth🌳.” 🪔</h4>
+<p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">✨Jagat Jyoti Biswal✨</a></p>
