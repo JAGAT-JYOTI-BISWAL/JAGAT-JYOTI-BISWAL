@@ -57,6 +57,7 @@
 <p align="center">
   🌙💫🌙
 </p>
+
 ## 🌙 GitHub Presence
 
 <p align="center">
@@ -86,5 +87,5 @@
   🧘‍♂️🪞🌳
 </p>
 
-<h4 align="center">🪔 “Calm mind, clean code, and continuous growth.” 🪔</h4>
-<p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">✨Jagat Jyoti Biswal✨</a></p>
+<h4 align="center">🧘‍♂️ “Calm mind, clean code, and continuous growth.” 🧘‍♂️</h4>
+<p align="center">🪔 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">✨Jagat Jyoti Biswal✨</a></p>
