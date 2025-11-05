@@ -9,7 +9,7 @@
 <p align="center">
   🌾 I cultivate clean, meaningful systems — in <b>code</b> and <b>habits</b>.<br/>
   🌿 Nature's calm and clarity inspire everything I create.<br/>
-  🍃 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
+  🌸 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
   🌼 Exploring: <b>MERN Stack, Green UI Design, and Sustainable Coding</b>
 </p>
 
@@ -28,20 +28,20 @@
 </p>
 
 <p align="center">
-  🌿🌻🌿
+  🌷🌻🌷
 </p>
 
 ## 🌼 Featured Projects
 
-### 🌷 [Portfolio Website](https://lipun-portfolio.netlify.app)
+### 🧩 [Portfolio Website](https://lipun-portfolio.netlify.app)
 > A nature-inspired personal site built with HTML, CSS, JS — reflecting peace and clarity.  
 > Dual-theme layout; semantic structure; accessible components.
 
-### 🌷 Placement Preparation Tracker (MERN – private demo)
+### 🧩 Placement Preparation Tracker (MERN – private demo)
 > A full-stack productivity system to plan topics, add tasks, and track progress calmly.  
 > REST APIs; MongoDB persistence; React-based progress dashboard.
 
-### 🌷 Business Management System (React + IndexedDB/Firebase)
+### 🧩 Business Management System (React + IndexedDB/Firebase)
 > Event-based ledger for small business clarity.  
 > One-tap entries, transparent adjustments, and clean visualization.
 
