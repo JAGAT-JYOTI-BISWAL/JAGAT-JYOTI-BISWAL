@@ -15,7 +15,7 @@
 
 ---
 
-## 🌀 Tech & Tools
+## 🌀 Tech & Tools ⚙️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-6a994e?style=for-the-badge&logo=openjdk&logoColor=fefae0"/>
@@ -54,6 +54,9 @@
   <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-a7c957?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  🌙💫🌙
+</p>
 ## 🌙 GitHub Presence
 
 <p align="center">
@@ -79,6 +82,9 @@
   <a href="https://github.com/JAGAT-JYOTI-BISWAL"><img src="https://img.shields.io/badge/GitHub-ffe5ec?style=for-the-badge&logo=github&logoColor=3b3b3b"/></a>
   <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-bde0fe?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
 </p>
+<p align="center">
+  🧘‍♂️🪞🌳
+</p>
 
-<h4 align="center">🪔 “Calm mind🧘‍♂️, clean code🪞, and continuous growth🌳.” 🪔</h4>
+<h4 align="center">🪔 “Calm mind, clean code, and continuous growth.” 🪔</h4>
 <p align="center">🍀 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">✨Jagat Jyoti Biswal✨</a></p>
