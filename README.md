@@ -1,6 +1,6 @@
 <!-- 🌲 Forest & Garden Theme for Jagat Jyoti Biswal -->
 <!-- Theme: Nature • Calm • Growth -->
-<h1 align="center">🌿 Hi, I'm Jagat Jyoti Biswal 🌿</h1>
+<h1 align="center">✨ Hi, I'm Jagat Jyoti Biswal ✨</h1>
 
 <p align="center">
   <em>B.Tech CSE @ ITER (SOA University), Bhubaneswar (2023–2027)</em>
