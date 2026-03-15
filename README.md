@@ -54,19 +54,19 @@ My focus areas:
 Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
 - **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
-- **Live Demo:** [Open Project](https://secure-contactt-backend.onrender.com/)
+- **Live Demo:** [Open Project](https://secure-contacttbackend.onrender.com/)
 
 ### 2. NLP-Powered Semantic Notes Backend
 Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
 - **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
-- **Live Demo:** [Open Project](https://semanticc-notes-api-f6wy.onrender.com)
+- **Live Demo:** [Open Project](https://semanticc-notesapi-f6wy.onrender.com)
 
 ### 3. DevLaunch
 Multi-page frontend project demonstrating reusable UI architecture, responsive design, and interactive JavaScript components across marketing and dashboard pages.
 
 - **Repo:** [devlaunch](https://github.com/JAGAT-JYOTI-BISWAL/devlaunch)
-- **Live Demo:** [Open Project](https://lipun-devlaunchh.netlify.app)
+- **Live Demo:** [Open Project](https://lipundevlaunchh.netlify.app)
 
 ### 4. Interactive Portfolio Website
 Responsive personal portfolio with theme persistence, smooth navigation, and accessibility-focused UI improvements.
