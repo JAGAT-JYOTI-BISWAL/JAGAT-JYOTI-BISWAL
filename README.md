@@ -54,25 +54,25 @@ My focus areas:
 Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
 - **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
-- **Live Demo:** [Open Project](https://secure-contact-backend.onrender.com/)
+- **Live Demo:** [Open Project](https://secure-contactt-backend.onrender.com/)
 
 ### 2. NLP-Powered Semantic Notes Backend
 Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
 - **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
-- **Live Demo:** [Open Project](https://semantic-notes-api-f6wy.onrender.com)
+- **Live Demo:** [Open Project](https://semanticc-notes-api-f6wy.onrender.com)
 
 ### 3. DevLaunch
 Multi-page frontend project demonstrating reusable UI architecture, responsive design, and interactive JavaScript components across marketing and dashboard pages.
 
 - **Repo:** [devlaunch](https://github.com/JAGAT-JYOTI-BISWAL/devlaunch)
-- **Live Demo:** [Open Project](https://lipun-devlaunch.netlify.app)
+- **Live Demo:** [Open Project](https://lipun-devlaunchh.netlify.app)
 
 ### 4. Interactive Portfolio Website
 Responsive personal portfolio with theme persistence, smooth navigation, and accessibility-focused UI improvements.
 
 - **Repo:** [jagat-portfolio-website](https://github.com/JAGAT-JYOTI-BISWAL/jagat-portfolio-website)
-- **Live Demo:** [Open Project](https://jagatjyotibiswal-portfolio.netlify.app)
+- **Live Demo:** [Open Project](https://jagatjyotibiswall-portfolio.netlify.app)
 
 ---
 
@@ -96,6 +96,6 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 ## Connect With Me
 
-- **Portfolio:** [jagatjyotibiswal-portfolio.netlify.app](https://jagatjyotibiswal-portfolio.netlify.app)
+- **Portfolio:** [jagatjyotibiswal-portfolio.netlify.app](https://jagatjyotibiswall-portfolio.netlify.app)
 - **LinkedIn:** [linkedin.com/in/jagatjyotibiswal](https://www.linkedin.com/in/jagatjyotibiswal)
 - **Email:** [jagatjyotibiswal2@gmail.com](mailto:jagatjyotibiswal2@gmail.com)
