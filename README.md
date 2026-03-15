@@ -1,22 +1,33 @@
 # Hi, I'm Jagat Jyoti Biswal 👋
 
-### Backend-Focused Software Engineering Student  
-**Node.js | Secure APIs | MongoDB | AI/NLP Integration**
+### Applied AI Engineer (Backend–AI Integration)
+**Node.js | Secure APIs | MongoDB | FastAPI Microservices | Embeddings & Semantic Search**
 
-B.Tech CSE @ ITER, SOA University (2023–2027)  
+B.Tech CSE @ ITER, SOA University (2023–2027)
 I build clean systems—code and habits.
 
 ---
 
 ## About Me
 
-I'm a backend-focused computer science student who enjoys building secure APIs, database-driven systems, and AI-integrated backend projects.
+I'm an applied AI engineer in training with a backend-first approach—building secure APIs and microservices that integrate AI workloads into real products.
 
-My current focus is becoming interview-ready for backend and software engineering roles by strengthening:
-- backend fundamentals
-- system design basics
-- DSA consistency
-- real project depth
+My focus areas:
+- backend fundamentals & clean REST API design
+- authentication, authorization, and data access control
+- AI/NLP integration (Python FastAPI microservices)
+- vector search patterns (embeddings + cosine similarity)
+- consistent placement prep (DSA + project depth)
+
+---
+
+## Backend–AI Integration Skills
+
+- Backend–AI Integration (Python Microservices)
+- Text embeddings
+- Semantic search
+- NLP service integration
+- Vector similarity (cosine similarity)
 
 ---
 
@@ -34,8 +45,6 @@ My current focus is becoming interview-ready for backend and software engineerin
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
 
 ---
 
@@ -69,11 +78,11 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 ## Current Focus
 
-- Data Structures & Algorithms
-- Backend engineering depth
-- Clean API design
-- AI-integrated backend systems
-- Placement preparation for software engineering roles
+- Applied AI backend integration (FastAPI microservices)
+- Embeddings + vector similarity patterns
+- Backend engineering depth & clean architecture
+- System design fundamentals
+- DSA consistency
 
 ---
 
