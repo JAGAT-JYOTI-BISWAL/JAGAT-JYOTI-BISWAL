@@ -1,91 +1,92 @@
-<!-- 🌲 Forest & Garden Theme for Jagat Jyoti Biswal -->
-<!-- Theme: Nature • Calm • Growth -->
-<h1 align="center">✨ Hi, I'm Jagat Jyoti Biswal ✨</h1>
+# Hi, I'm Jagat Jyoti Biswal 👋
 
-<p align="center">
-  <em>B.Tech CSE @ ITER (SOA University), Bhubaneswar (2023–2027)</em>
-</p>
+### Backend-Focused Software Engineering Student  
+**Node.js | Secure APIs | MongoDB | AI/NLP Integration**
 
-<p align="center">
-  🌾 I cultivate clean, meaningful systems — in <b>code</b> and <b>habits</b>.<br/>
-  🌿 Nature's calm and clarity inspire everything I create.<br/>
-  🌸 Currently learning: <b>Java, DSA, DBMS, Operating Systems</b><br/>
-  🍀 Exploring: <b>MERN Stack, Green UI Design, and Sustainable Coding</b>
-</p>
+B.Tech CSE @ ITER, SOA University (2023–2027)  
+I build clean systems—code and habits.
 
 ---
 
-## 🌀 Tech & Tools ⚙️
+## About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-6a994e?style=for-the-badge&logo=openjdk&logoColor=fefae0"/>
-  <img src="https://img.shields.io/badge/Language-Python-a7c957?style=for-the-badge&logo=python&logoColor=2a4d14"/>
-  <img src="https://img.shields.io/badge/Web-HTML%20|%20CSS%20|%20JS-b7e4c7?style=for-the-badge&logo=html5&logoColor=2a4d14"/>
-  <img src="https://img.shields.io/badge/Framework-React-52796f?style=for-the-badge&logo=react&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-354f52?style=for-the-badge&logo=nodedotjs&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-84a98c?style=for-the-badge&logo=mongodb&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub%20|%20VSCode%20|%20Linux-52796f?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</p>
+I'm a backend-focused computer science student who enjoys building secure APIs, database-driven systems, and AI-integrated backend projects.
 
-<p align="center">
-  🌷🌻🌷
-</p>
+My current focus is becoming interview-ready for backend and software engineering roles by strengthening:
+- backend fundamentals
+- system design basics
+- DSA consistency
+- real project depth
 
-## 🌼 Featured Projects
+---
 
-### 🧩 [Portfolio Website](https://lipun-portfolio.netlify.app)
-> A nature-inspired personal site built with HTML, CSS, JS — reflecting peace and clarity.  
-> Dual-theme layout; semantic structure; accessible components.
+## Tech Stack
 
-### 🧩 Placement Preparation Tracker (MERN – private demo)
-> A full-stack productivity system to plan topics, add tasks, and track progress calmly.  
-> REST APIs; MongoDB persistence; React-based progress dashboard.
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
 
-### 🧩 Business Management System (React + IndexedDB/Firebase)
-> Event-based ledger for small business clarity.  
-> One-tap entries, transparent adjustments, and clean visualization.
+---
 
-## 🧠 Problem Solving Mindset
-> Practicing problem solving gently and patiently — 120+ DSA problems across Arrays, Strings, Searching, Sorting, and Recursion.  
-> My goal: not speed, but consistency, calmness, and understanding.
+## Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Calm%20Consistency-fbadb2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Deep%20Roots%20of%20Understanding-a7c957?style=for-the-badge"/>
-</p>
+### 1. Secure Contact Management Backend
+Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
-<p align="center">
-  🌙💫🌙
-</p>
+- **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
+- **Live Demo:** [Open Project](https://secure-contact-backend.onrender.com/)
 
-## 🌙 GitHub Presence
+### 2. NLP-Powered Semantic Notes Backend
+Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAGAT-JYOTI-BISWAL&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=JAGAT-JYOTI-BISWAL&theme=gruvbox_light&hide_border=true" height="160"/>
-</p>
+- **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
+- **Live Demo:** [Open Project](https://semantic-notes-api-f6wy.onrender.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGAT-JYOTI-BISWAL&layout=compact&theme=gruvbox_light&hide_border=true"/>
-</p>
+### 3. DevLaunch
+Multi-page frontend project demonstrating reusable UI architecture, responsive design, and interactive JavaScript components across marketing and dashboard pages.
 
-## 🌱 Philosophy
-> “Code should breathe — clear, simple, alive.”  
-> I believe technology should enhance peace🕊️, not pressure.
+- **Repo:** [devlaunch](https://github.com/JAGAT-JYOTI-BISWAL/devlaunch)
+- **Live Demo:** [Open Project](https://lipun-devlaunch.netlify.app)
 
-## 💫 Now
-> Currently exploring deeper system design with peace of mind🧘.
+### 4. Interactive Portfolio Website
+Responsive personal portfolio with theme persistence, smooth navigation, and accessibility-focused UI improvements.
 
-## 💖 Connect With Me
+- **Repo:** [jagat-portfolio-website](https://github.com/JAGAT-JYOTI-BISWAL/jagat-portfolio-website)
+- **Live Demo:** [Open Project](https://jagatjyotibiswal-portfolio.netlify.app)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jagatjyotibiswal"><img src="https://img.shields.io/badge/LinkedIn-accbee?style=for-the-badge&logo=linkedin&logoColor=3b3b3b"/></a>
-  <a href="https://github.com/JAGAT-JYOTI-BISWAL"><img src="https://img.shields.io/badge/GitHub-ffe5ec?style=for-the-badge&logo=github&logoColor=3b3b3b"/></a>
-  <a href="mailto:jagatjyotibiswal2@gmail.com"><img src="https://img.shields.io/badge/Email-bde0fe?style=for-the-badge&logo=gmail&logoColor=3b3b3b"/></a>
-</p>
-<p align="center">
-  🧘‍♂️🪞🌳
-</p>
+---
 
-<h4 align="center">🧘‍♂️ “Calm mind, clean code, and continuous growth.” 🧘‍♂️</h4>
-<p align="center">🪔 From <a href="https://github.com/JAGAT-JYOTI-BISWAL">✨Jagat Jyoti Biswal✨</a></p>
+## Current Focus
+
+- Data Structures & Algorithms
+- Backend engineering depth
+- Clean API design
+- AI-integrated backend systems
+- Placement preparation for software engineering roles
+
+---
+
+## GitHub Stats
+
+![Jagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAGAT-JYOTI-BISWAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGAT-JYOTI-BISWAL&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect With Me
+
+- **Portfolio:** [jagatjyotibiswal-portfolio.netlify.app](https://jagatjyotibiswal-portfolio.netlify.app)
+- **LinkedIn:** [linkedin.com/in/jagatjyotibiswal](https://www.linkedin.com/in/jagatjyotibiswal)
+- **Email:** [jagatjyotibiswal2@gmail.com](mailto:jagatjyotibiswal2@gmail.com)
