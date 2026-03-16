@@ -40,7 +40,9 @@ My focus areas:
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,mongodb,fastapi,git,github,postman,html,css"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,mongodb,fastapi,git,github,postman,html,css" />
+</p>
 
 <br>
 
@@ -125,10 +127,18 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 <div align="center">
 
-🌿 **Just breathe and believe**
+<h2>🌿 <b>Just breathe and believe</b> 🌿</h2>
 
-<i>Build systems. Build clarity. Build quietly.</i>
+<h3>
+  <i>
+    <span style="color:#00c9ff;">Build systems.</span>
+    <span style="color:#7ee787;"> Build clarity.</span>
+    <span style="color:#d2a8ff;"> Build quietly.</span>
+  </i>
+</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:0f2027,100:203a43&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00c9ff,50:7ee787,100:d2a8ff&section=footer"/>
 
 </div>
