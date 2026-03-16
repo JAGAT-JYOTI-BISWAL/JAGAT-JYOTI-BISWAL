@@ -19,32 +19,25 @@ I build clean systems—code and habits.
 
 I'm an applied AI engineer in training with a backend-first approach—building secure APIs and microservices that integrate AI workloads into real products.
 
-My focus areas:
-- backend fundamentals & clean REST API design
-- authentication, authorization, and data access control
-- AI/NLP integration (Python FastAPI microservices)
-- vector search patterns (embeddings + cosine similarity)
-- consistent placement prep (DSA + project depth)
+My focus areas include backend fundamentals, secure API design, AI microservice integration, and semantic search systems.
 
 ---
 
-## Backend–AI Integration Skills
+## My Core Specialization
 
-- Backend–AI Integration (Python Microservices)
-- Text embeddings
-- Semantic search
-- NLP service integration
-- Vector similarity (cosine similarity)
+> Building backend systems that think —  
+> secure APIs connected to AI workloads through clean microservice architecture.
+
+| Area | What I Work With |
+|-----|------------------|
+| Backend Core | Node.js, Express, MongoDB, REST APIs |
+| AI Integration | Python FastAPI, NLP microservices |
+| Semantic Layer | Text embeddings, cosine similarity search |
+| Security | JWT authentication, bcrypt hashing, per-user data isolation |
 
 ---
 
 ## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,mongodb,fastapi,git,github,postman,html,css" />
-</p>
-
-<br>
 
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -72,7 +65,8 @@ My focus areas:
 Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
 - **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
-- **Live Demo:** [Open Project](https://secure-contacttbackend.onrender.com/)
+- **Live Demo:** [Open Project](https://secure-contacttbackend.onrender.com/)  
+⚠️ Free-tier deployment — may take 30–60 seconds to wake on first load.
 
 ---
 
@@ -80,8 +74,23 @@ Secure REST API backend with JWT authentication, bcrypt password hashing, protec
 
 Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
+**Architecture Overview**
+
+Client  
+↓  
+Node.js REST API  
+↓  
+MongoDB  
+↓  
+Python FastAPI NLP Service  
+↓  
+Embeddings Generation  
+↓  
+Cosine Similarity Search
+
 - **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
-- **Live Demo:** [Open Project](https://semanticc-notesapi-f6wy.onrender.com)
+- **Live Demo:** [Open Project](https://semanticc-notesapi-f6wy.onrender.com)  
+⚠️ Free-tier deployment — may take 30–60 seconds to wake on first load.
 
 ---
 
@@ -123,15 +132,13 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 ## Connect With Me
 
-- **Portfolio:** [jagatjyotibiswal-portfolio.netlify.app](https://jagatjyotibiswall-portfolio.netlify.app)
-- **LinkedIn:** [linkedin.com/in/jagatjyotibiswal](https://www.linkedin.com/in/jagatjyotibiswal)
-- **Email:** [jagatjyotibiswal2@gmail.com](mailto:jagatjyotibiswal2@gmail.com)
+- **Portfolio:** https://jagatjyotibiswall-portfolio.netlify.app  
+- **LinkedIn:** https://www.linkedin.com/in/jagatjyotibiswal  
+- **Email:** jagatjyotibiswal2@gmail.com  
 
 ---
 
 <div align="center">
-
-## 🌿 Just breathe and believe 🌿
 
 ### 🔹 Build systems. 🟢 Build clarity. 🟣 Build quietly.
 
