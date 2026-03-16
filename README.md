@@ -120,3 +120,15 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 - **Portfolio:** [jagatjyotibiswal-portfolio.netlify.app](https://jagatjyotibiswall-portfolio.netlify.app)
 - **LinkedIn:** [linkedin.com/in/jagatjyotibiswal](https://www.linkedin.com/in/jagatjyotibiswal)
 - **Email:** [jagatjyotibiswal2@gmail.com](mailto:jagatjyotibiswal2@gmail.com)
+
+---
+
+<div align="center">
+
+🌿 **Just breathe and believe**
+
+<i>Build systems. Build clarity. Build quietly.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=40&color=0:0f2027,100:203a43&section=footer"/>
+
+</div>
