@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:7ee787,100:d2a8ff&height=160&section=header&text=Applied%20AI%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7EE787&width=500&lines=Backend+Engineer;Applied+AI+Developer;Node.js+%7C+FastAPI+%7C+MongoDB;Building+systems+that+think...)](https://git.io/typing-svg)
+
 ### Applied AI Engineer (Backend–AI Integration)
 
 **Node.js | Secure APIs | MongoDB | FastAPI Microservices | Embeddings & Semantic Search**
@@ -64,8 +66,8 @@ My focus areas include backend fundamentals, secure API design, AI microservice 
 
 Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
-- **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
-- **Live Demo:** [Open Project](https://secure-contacttbackend.onrender.com/)  
+- **Repo:** https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend
+- **Live Demo:** https://secure-contacttbackend.onrender.com  
 ⚠️ Free-tier deployment — may take 30–60 seconds to wake on first load.
 
 ---
@@ -74,22 +76,8 @@ Secure REST API backend with JWT authentication, bcrypt password hashing, protec
 
 Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
-**Architecture Overview**
-
-Client  
-↓  
-Node.js REST API  
-↓  
-MongoDB  
-↓  
-Python FastAPI NLP Service  
-↓  
-Embeddings Generation  
-↓  
-Cosine Similarity Search
-
-- **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
-- **Live Demo:** [Open Project](https://semanticc-notesapi-f6wy.onrender.com)  
+- **Repo:** https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend
+- **Live Demo:** https://semanticc-notesapi-f6wy.onrender.com  
 ⚠️ Free-tier deployment — may take 30–60 seconds to wake on first load.
 
 ---
@@ -98,8 +86,8 @@ Cosine Similarity Search
 
 Multi-page frontend project demonstrating reusable UI architecture, responsive design, and interactive JavaScript components across marketing and dashboard pages.
 
-- **Repo:** [devlaunch](https://github.com/JAGAT-JYOTI-BISWAL/devlaunch)
-- **Live Demo:** [Open Project](https://lipundevlaunchh.netlify.app)
+- **Repo:** https://github.com/JAGAT-JYOTI-BISWAL/devlaunch
+- **Live Demo:** https://lipundevlaunchh.netlify.app
 
 ---
 
@@ -107,8 +95,8 @@ Multi-page frontend project demonstrating reusable UI architecture, responsive d
 
 Responsive personal portfolio with theme persistence, smooth navigation, and accessibility-focused UI improvements.
 
-- **Repo:** [jagat-portfolio-website](https://github.com/JAGAT-JYOTI-BISWAL/jagat-portfolio-website)
-- **Live Demo:** [Open Project](https://jagatjyotibiswall-portfolio.netlify.app)
+- **Repo:** https://github.com/JAGAT-JYOTI-BISWAL/jagat-portfolio-website
+- **Live Demo:** https://jagatjyotibiswall-portfolio.netlify.app
 
 ---
 
@@ -132,9 +120,9 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 ## Connect With Me
 
-- **Portfolio:** https://jagatjyotibiswall-portfolio.netlify.app  
-- **LinkedIn:** https://www.linkedin.com/in/jagatjyotibiswal  
-- **Email:** jagatjyotibiswal2@gmail.com  
+- Portfolio: https://jagatjyotibiswall-portfolio.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/jagatjyotibiswal  
+- Email: jagatjyotibiswal2@gmail.com  
 
 ---
 
