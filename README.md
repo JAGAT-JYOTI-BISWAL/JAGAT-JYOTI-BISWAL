@@ -128,7 +128,7 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 <div align="center">
 
-### 🔹 Build systems. 🟢 Build clarity. 🟣 Build quietly.
+### Build systems · Build clarity · Build quietly
 
 <br>
 
