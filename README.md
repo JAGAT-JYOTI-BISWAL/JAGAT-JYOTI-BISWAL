@@ -1,6 +1,6 @@
 # Hi, I'm Jagat Jyoti Biswal 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Jagat%20Jyoti%20Biswal&fontSize=30&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:7ee787,100:d2a8ff&height=160&section=header&text=Applied%20AI%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Applied AI Engineer (Backend–AI Integration)
 
@@ -60,6 +60,10 @@ My focus areas:
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c9ff,50:7ee787,100:d2a8ff&height=60&section=header"/>
+</p>
 
 ## Featured Projects
 
@@ -127,15 +131,9 @@ Responsive personal portfolio with theme persistence, smooth navigation, and acc
 
 <div align="center">
 
-<h2>🌿 <b>Just breathe and believe</b> 🌿</h2>
+## 🌿 Just breathe and believe 🌿
 
-<h3>
-  <i>
-    <span style="color:#00c9ff;">Build systems.</span>
-    <span style="color:#7ee787;"> Build clarity.</span>
-    <span style="color:#d2a8ff;"> Build quietly.</span>
-  </i>
-</h3>
+### 🔹 Build systems. 🟢 Build clarity. 🟣 Build quietly.
 
 <br>
 
