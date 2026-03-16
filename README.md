@@ -1,9 +1,16 @@
 # Hi, I'm Jagat Jyoti Biswal 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header&text=Jagat%20Jyoti%20Biswal&fontSize=30&fontColor=ffffff"/>
+
 ### Applied AI Engineer (Backend–AI Integration)
+
 **Node.js | Secure APIs | MongoDB | FastAPI Microservices | Embeddings & Semantic Search**
 
-B.Tech CSE @ ITER, SOA University (2023–2027)
+![Embeddings](https://img.shields.io/badge/Embeddings-AI-blue)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-NLP-green)
+![Vector Similarity](https://img.shields.io/badge/Cosine%20Similarity-ML-purple)
+
+B.Tech CSE @ ITER, SOA University (2023–2027)  
 I build clean systems—code and habits.
 
 ---
@@ -33,6 +40,10 @@ My focus areas:
 
 ## Tech Stack
 
+<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,express,mongodb,fastapi,git,github,postman,html,css"/>
+
+<br>
+
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -51,24 +62,34 @@ My focus areas:
 ## Featured Projects
 
 ### 1. Secure Contact Management Backend
+
 Secure REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation.
 
 - **Repo:** [secure-contact-backend](https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-backend)
 - **Live Demo:** [Open Project](https://secure-contacttbackend.onrender.com/)
 
+---
+
 ### 2. NLP-Powered Semantic Notes Backend
+
 Backend-AI system enabling semantic note search using embeddings and cosine similarity through a Node.js + Python FastAPI microservice architecture.
 
 - **Repo:** [semantic-notes-nlp-backend](https://github.com/JAGAT-JYOTI-BISWAL/semantic-notes-nlp-backend)
 - **Live Demo:** [Open Project](https://semanticc-notesapi-f6wy.onrender.com)
 
+---
+
 ### 3. DevLaunch
+
 Multi-page frontend project demonstrating reusable UI architecture, responsive design, and interactive JavaScript components across marketing and dashboard pages.
 
 - **Repo:** [devlaunch](https://github.com/JAGAT-JYOTI-BISWAL/devlaunch)
 - **Live Demo:** [Open Project](https://lipundevlaunchh.netlify.app)
 
+---
+
 ### 4. Interactive Portfolio Website
+
 Responsive personal portfolio with theme persistence, smooth navigation, and accessibility-focused UI improvements.
 
 - **Repo:** [jagat-portfolio-website](https://github.com/JAGAT-JYOTI-BISWAL/jagat-portfolio-website)
