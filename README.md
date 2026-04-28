@@ -177,7 +177,7 @@ They're where I want to eventually point the systems I build.
 <br/>
 
 <!-- PROJECT 01 — TEAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:064d3b&height=38&text=%2001%20%E2%80%94%20Context-Aware%20Intelligence%20System&fontSize=15&fontColor=64ffda&fontAlign=5&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:064d3b&height=45&text=01%20%E2%80%94%20Context-Aware%20Intelligence%20System&fontSize=15&fontColor=64ffda&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 > *RAG-based backend demonstrating dual-mode answer generation — pure LLM vs retrieval-augmented context injection. Makes semantic retrieval behavior fully observable.*
 
@@ -199,7 +199,7 @@ They're where I want to eventually point the systems I build.
 <br/><br/>
 
 <!-- PROJECT 02 — VIOLET -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:1a0533&height=38&text=%2002%20%E2%80%94%20NLP-Powered%20Semantic%20Notes%20Backend&fontSize=15&fontColor=bd93f9&fontAlign=5&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:1a0533&height=45&text=02%20%E2%80%94%20NLP-Powered%20Semantic%20Notes%20Backend&fontSize=15&fontColor=bd93f9&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 > *Semantic note search using embeddings and cosine similarity. Node.js orchestration layer + Python FastAPI microservice. Notes retrieved by meaning, not keywords.*
 
@@ -221,7 +221,7 @@ They're where I want to eventually point the systems I build.
 <br/><br/>
 
 <!-- PROJECT 03 — SKY BLUE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:0b2d45&height=38&text=%2003%20%E2%80%94%20Secure%20Contact%20Management%20Backend&fontSize=15&fontColor=89dcff&fontAlign=5&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:0b2d45&height=45&text=03%20%E2%80%94%20Secure%20Contact%20Management%20Backend&fontSize=15&fontColor=89dcff&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 > *REST API backend with JWT authentication, bcrypt password hashing, protected routes, and per-user contact isolation. Security layered from the ground up.*
 
@@ -243,7 +243,7 @@ They're where I want to eventually point the systems I build.
 <br/><br/>
 
 <!-- PROJECT 04 — ROSE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:2d0b1a&height=38&text=%2004%20%E2%80%94%20DevLaunch%20%2B%20Portfolio&fontSize=15&fontColor=f48fb1&fontAlign=5&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:2d0b1a&height=45&text=04%20%E2%80%94%20DevLaunch%20%2B%20Portfolio&fontSize=15&fontColor=f48fb1&fontAlign=50&fontAlignY=60&animation=fadeIn" width="100%"/>
 
 > *Multi-page frontend with reusable UI architecture and responsive design. Portfolio with theme persistence and accessibility improvements.*
 
@@ -373,4 +373,3 @@ They're where I want to eventually point the systems I build.
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,40:0d2137,70:112a45,100:0a192f&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-.
