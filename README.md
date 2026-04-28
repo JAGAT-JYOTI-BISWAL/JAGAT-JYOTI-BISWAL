@@ -373,3 +373,4 @@ They're where I want to eventually point the systems I build.
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,40:0d2137,70:112a45,100:0a192f&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+.
