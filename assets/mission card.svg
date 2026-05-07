@@ -1,0 +1,76 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d2137"/>
+      <stop offset="55%" stop-color="#0a192f"/>
+      <stop offset="100%" stop-color="#0d3326"/>
+    </linearGradient>
+    <linearGradient id="mborder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#64ffda" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#98f5a0" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#64ffda" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="mglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="14" fill="url(#mbg)"/>
+
+  <!-- helix watermark, right side -->
+  <g opacity="0.06" stroke="#98f5a0" stroke-width="1.4" fill="none">
+    <path d="M 920,40 C 950,90 980,40 1010,90 S 1070,40 1100,90 S 1160,40 1180,80 1180,140"/>
+    <path d="M 920,40 C 950,90 980,140 1010,90 S 1070,140 1100,90 S 1160,140 1180,100 1180,140"/>
+    <path d="M 920,180 C 950,230 980,180 1010,230 S 1070,180 1100,230 S 1160,180 1180,220 1180,280"/>
+    <path d="M 920,180 C 950,230 980,280 1010,230 S 1070,280 1100,230 S 1160,280 1180,240 1180,280"/>
+    <g stroke-width="0.9">
+      <line x1="935" y1="65" x2="935" y2="65"/>
+      <line x1="965" y1="80" x2="965" y2="100"/>
+      <line x1="995" y1="65" x2="995" y2="65"/>
+      <line x1="1025" y1="80" x2="1025" y2="100"/>
+      <line x1="1055" y1="65" x2="1055" y2="65"/>
+      <line x1="1085" y1="80" x2="1085" y2="100"/>
+      <line x1="1115" y1="65" x2="1115" y2="65"/>
+      <line x1="1145" y1="80" x2="1145" y2="100"/>
+    </g>
+  </g>
+
+  <!-- top accent bar -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#mborder)"/>
+
+  <!-- top-left neural cluster -->
+  <g opacity="0.18" stroke="#64ffda" stroke-width="0.6" fill="none">
+    <line x1="40" y1="40" x2="100" y2="60"/>
+    <line x1="100" y1="60" x2="155" y2="35"/>
+    <line x1="100" y1="60" x2="130" y2="105"/>
+    <line x1="40" y1="40" x2="60" y2="90"/>
+    <line x1="60" y1="90" x2="130" y2="105"/>
+  </g>
+  <g fill="#64ffda" opacity="0.55">
+    <circle cx="40" cy="40" r="2.5"/>
+    <circle cx="100" cy="60" r="2.8"/>
+    <circle cx="155" cy="35" r="2.5"/>
+    <circle cx="60" cy="90" r="2.5"/>
+    <circle cx="130" cy="105" r="3" filter="url(#mglow)">
+      <animate attributeName="opacity" values="0.55;0.2;0.55" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- THE THESIS label -->
+  <text x="60" y="68" font-family="ui-monospace,'JetBrains Mono',monospace" font-size="11" fill="#98f5a0" letter-spacing="6">THE  THESIS</text>
+
+  <!-- vertical accent bar -->
+  <rect x="60" y="85" width="2" height="220" fill="#98f5a0" opacity="0.55"/>
+
+  <!-- mission text -->
+  <text x="85" y="118" font-family="ui-serif,Georgia,'Times New Roman',serif" font-size="22" font-weight="600" fill="#ccd6f6">Backend engineering is the art of routing</text>
+  <text x="85" y="148" font-family="ui-serif,Georgia,serif" font-size="22" font-weight="600" fill="#ccd6f6">information reliably.</text>
+
+  <text x="85" y="195" font-family="ui-serif,Georgia,serif" font-size="22" font-weight="600" fill="#ccd6f6">Healthcare and longevity are the art of routing</text>
+  <text x="85" y="223" font-family="ui-serif,Georgia,serif" font-size="22" font-weight="600" fill="#ccd6f6">the right information to the right person at the right time.</text>
+
+  <text x="85" y="270" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#8892b0" font-style="italic">Most of what stands between people and longer, healthier lives</text>
+  <text x="85" y="290" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#8892b0" font-style="italic">isn't biology — it's bad systems.</text>
+
+  <text x="85" y="335" font-family="ui-monospace,monospace" font-size="14" fill="#98f5a0" font-weight="600" letter-spacing="1">▸  I'm learning to build the systems.</text>
+</svg>
