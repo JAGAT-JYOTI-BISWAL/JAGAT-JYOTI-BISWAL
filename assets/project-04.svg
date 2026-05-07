@@ -1,0 +1,51 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="p4bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d2137"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+    <linearGradient id="p4ac" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f48fb1"/>
+      <stop offset="100%" stop-color="#2d0b1a"/>
+    </linearGradient>
+    <filter id="p4g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2"/></filter>
+  </defs>
+
+  <rect width="1200" height="220" rx="10" fill="url(#p4bg)" stroke="#3a1d2a" stroke-width="1"/>
+  <rect x="0" y="0" width="4" height="220" fill="url(#p4ac)"/>
+
+  <text x="35" y="135" font-family="ui-monospace,monospace" font-size="86" font-weight="800" fill="#0a192f" stroke="#f48fb1" stroke-width="1.4" opacity="0.85">04</text>
+
+  <text x="190" y="55" font-family="ui-sans-serif,system-ui,sans-serif" font-size="22" font-weight="700" fill="#ccd6f6">DevLaunch  ·  Personal Portfolio</text>
+  <text x="190" y="78" font-family="ui-monospace,monospace" font-size="11" fill="#f48fb1" letter-spacing="2.5">HTML  ·  CSS  ·  RESPONSIVE  ·  A11Y</text>
+
+  <text x="190" y="110" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8892b0">Reusable component architecture, responsive layout, theme persistence,</text>
+  <text x="190" y="128" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#8892b0">accessibility passes — fundamentals done right before reaching for frameworks.</text>
+
+  <!-- two-up live preview tiles -->
+  <g transform="translate(190, 158)">
+    <g font-family="ui-monospace,monospace" font-size="9" fill="#ccd6f6" text-anchor="middle">
+      <g><rect x="0" y="0" width="180" height="42" rx="5" fill="#0a192f" stroke="#f48fb1" stroke-width="0.9"/>
+         <text x="90" y="17" font-size="10" fill="#f48fb1" letter-spacing="1.5">DEVLAUNCH</text>
+         <text x="90" y="33" font-size="9" fill="#8892b0">multi-page · components</text></g>
+      <g transform="translate(200,0)"><rect x="0" y="0" width="180" height="42" rx="5" fill="#0a192f" stroke="#f48fb1" stroke-width="0.9"/>
+         <text x="90" y="17" font-size="10" fill="#f48fb1" letter-spacing="1.5">PORTFOLIO</text>
+         <text x="90" y="33" font-size="9" fill="#8892b0">theme · a11y · responsive</text></g>
+    </g>
+  </g>
+
+  <g transform="translate(960, 50)">
+    <rect x="0" y="0" width="200" height="28" rx="14" fill="#2d0b1a" stroke="#f48fb1" stroke-width="0.8"/>
+    <circle cx="16" cy="14" r="3.5" fill="#f48fb1" filter="url(#p4g)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="18" font-family="ui-monospace,monospace" font-size="10" fill="#f48fb1" letter-spacing="1.2">LIVE  ·  NETLIFY</text>
+  </g>
+
+  <g transform="translate(960, 100)">
+    <text x="0" y="0" font-family="ui-monospace,monospace" font-size="9" fill="#8892b0" letter-spacing="2">DEMONSTRATES</text>
+    <text x="0" y="22" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#ccd6f6">▸ Frontend fundamentals</text>
+    <text x="0" y="42" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#ccd6f6">▸ Component thinking</text>
+    <text x="0" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" fill="#ccd6f6">▸ Design discipline</text>
+  </g>
+</svg>
