@@ -1,154 +1,119 @@
-<h1 align="center">Jagat Jyoti Biswal</h1><h3 align="center">Backend Engineering × Applied AI</h3><p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=1800&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+%E2%86%92+APIs+%C2%B7+Security+%C2%B7+Data+%C2%B7+Business+Logic;AI%2FML+%E2%86%92+Retrieval+%C2%B7+Embeddings+%C2%B7+Models+%C2%B7+LLMs;Building+systems+from+APIs+to+intelligence." alt="Engineering Focus">
-  </a>
-</p><p align="center">
-  <code>Java</code> ·
-  <code>Spring Boot</code> ·
-  <code>Python</code> ·
-  <code>FastAPI</code> ·
-  <code>Machine Learning</code> ·
-  <code>RAG</code>
-</p><p align="center">
-  <a href="https://linkedin.com/in/jagatjyotibiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://jagatjyotibiswall-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="mailto:jagatjyotibiswal2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JAGAT-JYOTI-BISWAL&style=flat-square&color=21262d&label=Views" alt="Profile Views">
-</p><br>---
+<!-- ───────────────────────────────────────────── --><!-- PROFILE                                       --><!-- ───────────────────────────────────────────── --><br/><div align="center">Profile
 
-Profile
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=2" width="72%"/><br/><sub>BACKEND ENGINEERING × APPLIED AI</sub>
 
-Computer Science undergraduate at ITER, SOA University, working across backend engineering and applied AI/ML.
+<br/><br/>
 
-I build backend systems around APIs, authentication, authorization, business logic and data, while exploring how retrieval, machine learning and LLMs can extend those systems with useful intelligence.
+<strong>Backend-first engineer exploring the intelligence layer.</strong>
 
-Current focus — Java & Spring Boot · Applied AI/ML · DSA · SQL
+<br/><br/>
 
----
+Computer Science undergraduate at <strong>ITER, SOA University</strong>,
+building across backend systems and applied AI/ML.
 
-Engineering Stack
-
-<p>
-  <strong>Core</strong>
-</p><p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Core Languages">
-</p><p>
-  <strong>Backend & Data</strong>
-</p><p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgresql,mongodb,mysql&theme=dark" alt="Backend and Data">
-</p><p>
-  <strong>Engineering Tools</strong>
-</p><p>
-  <img src="https://skillicons.dev/icons?i=docker,maven,git,github,postman&theme=dark" alt="Engineering Tools">
-</p><p>
-  <strong>AI / ML</strong>
-</p><p>
-  <img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&logoColor=white" alt="RAG">
-  <img src="https://img.shields.io/badge/Embeddings-161B22?style=flat-square&logoColor=white" alt="Embeddings">
-  <img src="https://img.shields.io/badge/Semantic_Retrieval-161B22?style=flat-square&logoColor=white" alt="Semantic Retrieval">
-  <img src="https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square&logoColor=white" alt="LLM Integration">
-  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy">
-</p>---
-
-🚀 Featured Projects
-
-<table>
+</div><br/><table>
 <tr>
-<td width="50%" valign="top">🧠 Context-Aware Intelligence System
+<td width="50%" valign="top"><div align="center">⚙️ Backend
 
-A RAG-based AI backend that compares direct LLM answers with retrieval-grounded responses using semantic search.
+<sub>ENGINEERING LAYER</sub>
 
-Python · FastAPI · RAG · Embeddings · MongoDB
+<br/><br/>
 
-<a href="https://github.com/JAGAT-JYOTI-BISWAL/context-aware-intelligence-system-python">
-  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://context-aware-intelligence-system-python.onrender.com">
-  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
-</a></td><td width="50%" valign="top">📊 Smart Learning Analytics
+"APIs" · "Security"
+"Business Logic" · "Data"
+"Architecture"
 
-An end-to-end machine learning system that transforms educational activity data into student-performance predictions.
+</div></td><td width="50%" valign="top"><div align="center">🧠 Intelligence
 
-Python · scikit-learn · Pandas · FastAPI · Docker
+<sub>AI / ML LAYER</sub>
 
-<a href="https://github.com/JAGAT-JYOTI-BISWAL/smart-learning-analytics">
-  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://smart-learning-analytics-6cxe.onrender.com">
-  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
-</a></td>
-</tr><tr>
-<td width="50%" valign="top">🏥 Clinic Appointment System
+<br/><br/>
 
-A role-based Spring Boot platform with scheduling rules and separate workflows for patients, doctors and administrators.
+"RAG" · "Retrieval"
+"Embeddings" · "ML"
+"LLM Integration"
 
-Java · Spring Boot · Spring Security · PostgreSQL · JWT
-
-<a href="https://github.com/JAGAT-JYOTI-BISWAL/clinic-appointment-system">
-  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://clinic-appointment-system-tn4l.onrender.com">
-  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
-</a></td><td width="50%" valign="top">🔐 Secure Contact Management
-
-A secure multi-user REST API focused on JWT authentication, authorization and per-user data isolation.
-
-Java · Spring Boot · Spring Security · PostgreSQL · JWT
-
-<a href="https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-manager-java">
-  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://secure-contact-manager-java-u7qw.onrender.com">
-  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
-</a></td>
+</div></td>
 </tr>
-</table>---
+</table><br/><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=1800&color=58A6FF&center=true&vCenter=true&width=560&lines=Current+Focus+%E2%86%92+Java+%26+Spring+Boot;Current+Focus+%E2%86%92+Applied+AI+%2F+ML;Current+Focus+%E2%86%92+DSA+%26+SQL" alt="Current Focus">
+</p><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/><br/><br/>
 
-Engineering Activity
+<!-- ───────────────────────────────────────────── --><!-- ENGINEERING PULSE                             --><!-- ───────────────────────────────────────────── --><div align="center">Engineering Pulse
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGAT-JYOTI-BISWAL&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity">
-</p><p align="center">
-  <img src="https://img.shields.io/github/followers/JAGAT-JYOTI-BISWAL?style=flat-square&logo=github&label=Followers&color=21262d" alt="GitHub Followers">
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/JAGAT-JYOTI-BISWAL?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=21262d" alt="GitHub Stars">
-</p>---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2" width="72%"/><br/><br/>
 
-Direction
+<img src="https://img.shields.io/badge/BUILDING-Backend%20Systems-0d1117?style=for-the-badge&labelColor=1f6feb&color=161b22" alt="Building">
+&nbsp;
+<img src="https://img.shields.io/badge/EXPLORING-Applied%20AI-0d1117?style=for-the-badge&labelColor=8957e5&color=161b22" alt="Exploring">
+&nbsp;
+<img src="https://img.shields.io/badge/STRENGTHENING-DSA%20%26%20SQL-0d1117?style=for-the-badge&labelColor=238636&color=161b22" alt="Strengthening"><br/><br/>
 
-My current work is centered on backend engineering and applied AI. Over the longer term, I'm interested in where these capabilities intersect with human health, longevity, preventive health and behavioral science.
+<img src="https://komarev.com/ghpvc/?username=JAGAT-JYOTI-BISWAL&style=flat-square&color=21262d&labelColor=0d1117&label=Profile+Views" alt="Profile Views"></div><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/><br/><br/>
 
-I'm particularly interested in how well-engineered software, data and intelligent systems can make complex information more useful, understandable and actionable.
+<!-- ───────────────────────────────────────────── --><!-- DIRECTION                                     --><!-- ───────────────────────────────────────────── --><div align="center">Direction
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8957e5,100:0d1117&height=2" width="72%"/><br/><sub>TWO LAYERS · ONE ENGINEERING DIRECTION</sub>
 
-Contact
+</div><br/><table>
+<tr>
+<td width="50%" valign="top"><div align="center">⚙️ Engineering
 
-For conversations around backend engineering, applied AI/ML, projects or early-career opportunities:
+<strong>Strong backend foundations</strong>
 
-<p>
-  <a href="https://linkedin.com/in/jagatjyotibiswal">
-    <img src="https://img.shields.io/badge/LinkedIn-Jagat_Jyoti_Biswal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://jagatjyotibiswall-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="mailto:jagatjyotibiswal2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email">
-  </a>
-</p><br><p align="center">
-  <sub><i>Build systems. Build clarity. Build quietly.</i></sub>
-</p>
+<br/><br/>
+
+APIs
+↓
+Authentication & Authorization
+↓
+Business Logic
+↓
+Databases
+↓
+Architecture
+
+</div></td><td width="50%" valign="top"><div align="center">🧠 Intelligence
+
+<strong>Useful intelligence on top</strong>
+
+<br/><br/>
+
+Retrieval
+↓
+Embeddings
+↓
+Machine Learning
+↓
+LLM Integration
+↓
+Applied AI Systems
+
+</div></td>
+</tr>
+</table><br/><p align="center">
+  <strong>Strong engineering underneath.</strong><br/>
+  <sub>Intelligence where it adds real value.</sub>
+</p><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="100%"/><br/><br/>
+
+<!-- ───────────────────────────────────────────── --><!-- FIND ME                                       --><!-- ───────────────────────────────────────────── --><div align="center">Find Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:238636,100:0d1117&height=2" width="60%"/><br/><br/>
+
+<a href="https://linkedin.com/in/jagatjyotibiswal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://jagatjyotibiswall-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-161B22?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio">
+</a>
+&nbsp;
+<a href="mailto:jagatjyotibiswal2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+</a><br/><br/><br/>
+
+<sub><i>Build systems. Build clarity. Build quietly.</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:1f6feb,65:8957e5,100:0d1117&height=3" width="72%"/></div><br/>
