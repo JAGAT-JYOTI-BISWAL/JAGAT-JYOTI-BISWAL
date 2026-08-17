@@ -43,8 +43,10 @@ Backend-first engineering, with intelligence as the next layer.
 Computer Science undergraduate at ITER, SOA University,
 working across backend engineering and applied AI/ML.
 
-</div><br/><table>
-<tr><td width="50%" valign="top"><div align="center">Backend Layer
+</div><br/><br/>
+
+<table align="center" width="78%">
+<tr><td width="50%" valign="top" align="center">Backend Layer
 
 <img src="https://img.shields.io/badge/ENGINEERING-1F6FEB?style=flat-square&labelColor=161B22" alt="Engineering"><br/><br/>
 
@@ -60,7 +62,7 @@ working across backend engineering and applied AI/ML.
 
 "Architecture"
 
-</div></td><td width="50%" valign="top"><div align="center">Intelligence Layer
+</td><td width="50%" valign="top" align="center">Intelligence Layer
 
 <img src="https://img.shields.io/badge/AI_%2F_ML-6E40C9?style=flat-square&labelColor=161B22" alt="AI ML"><br/><br/>
 
@@ -76,8 +78,10 @@ working across backend engineering and applied AI/ML.
 
 "Applied AI"
 
-</div></td></tr>
-</table><br/><p align="center">
+</td></tr>
+</table><br/><br/>
+
+<p align="center">
   <sub>CURRENT FOCUS</sub>
 </p><p align="center">
   <strong>Java & Spring Boot</strong>
@@ -87,19 +91,25 @@ working across backend engineering and applied AI/ML.
   <strong>DSA</strong>
   &nbsp;·&nbsp;
   <strong>SQL</strong>
-</p><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:1F6FEB,65:6E40C9,100:0D1117&height=3" width="100%"/><br/><br/>
+</p><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:1F6FEB,65:6E40C9,100:0D1117&height=3" width="100%"/><br/><br/>
 
 <!-- ====================================================== --><!--                  ENGINEERING STACK                     --><!-- ====================================================== --><div align="center">Engineering Stack
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00C7B7,100:0D1117&height=2" width="55%"/><br/><sub>TOOLS I BUILD WITH</sub>
 
-</div><br/><table>
-<tr><td width="50%" valign="top"><div align="center">Core
+</div><br/><br/>
 
-<br/><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Core Languages"></div></td><td width="50%" valign="top"><div align="center">Engineering Tools
+<table align="center" width="78%">
+<tr><td width="50%" valign="top" align="center">Core
 
-<br/><img src="https://skillicons.dev/icons?i=docker,maven,git,github,postman&theme=dark&perline=5" alt="Engineering Tools"></div></td></tr>
-</table><br/><div align="center">Backend & Data
+<br/><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Core Languages"></td><td width="50%" valign="top" align="center">Engineering Tools
+
+<br/><img src="https://skillicons.dev/icons?i=docker,maven,git,github,postman&theme=dark&perline=5" alt="Engineering Tools"></td></tr>
+</table><br/><br/>
+
+<div align="center">Backend & Data
 
 <br/><img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgresql,mongodb,mysql&theme=dark&perline=7" alt="Backend and Data"></div><br/><br/>
 
@@ -125,7 +135,9 @@ working across backend engineering and applied AI/ML.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:8957E5,65:58A6FF,100:0D1117&height=2" width="62%"/><br/><sub>SELECTED ENGINEERING WORK</sub>
 
-</div><br/><table><tr><td width="50%" valign="top">🧠 Context-Aware Intelligence System
+</div><br/><br/>
+
+<table align="center" width="100%"><tr><td width="50%" valign="top">🧠 Context-Aware Intelligence System
 
 A RAG-based AI backend that compares direct LLM answers with retrieval-grounded responses using semantic search.
 
@@ -133,8 +145,7 @@ Python · FastAPI · RAG · Embeddings · MongoDB
 
 <br/><a href="https://github.com/JAGAT-JYOTI-BISWAL/context-aware-intelligence-system-python">
   <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://context-aware-intelligence-system-python.onrender.com">
+</a><a href="https://context-aware-intelligence-system-python.onrender.com">
   <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
 </a></td><td width="50%" valign="top">📊 Smart Learning Analytics
 
@@ -144,8 +155,7 @@ Python · scikit-learn · Pandas · FastAPI · Docker
 
 <br/><a href="https://github.com/JAGAT-JYOTI-BISWAL/smart-learning-analytics">
   <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://smart-learning-analytics-6cxe.onrender.com">
+</a><a href="https://smart-learning-analytics-6cxe.onrender.com">
   <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
 </a></td></tr><tr><td width="50%" valign="top">🏥 Clinic Appointment System
 
@@ -155,8 +165,7 @@ Java · Spring Boot · Spring Security · PostgreSQL · JWT
 
 <br/><a href="https://github.com/JAGAT-JYOTI-BISWAL/clinic-appointment-system">
   <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://clinic-appointment-system-tn4l.onrender.com">
+</a><a href="https://clinic-appointment-system-tn4l.onrender.com">
   <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
 </a></td><td width="50%" valign="top">🔐 Secure Contact Management
 
@@ -166,8 +175,7 @@ Java · Spring Boot · Spring Security · PostgreSQL · JWT
 
 <br/><a href="https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-manager-java">
   <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
-</a>
-<a href="https://secure-contact-manager-java-u7qw.onrender.com">
+</a><a href="https://secure-contact-manager-java-u7qw.onrender.com">
   <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
 </a></td></tr></table><br/><br/>
 
@@ -177,7 +185,7 @@ Java · Spring Boot · Spring Security · PostgreSQL · JWT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2" width="55%"/><br/><sub>CURRENT ENGINEERING STATE</sub>
 
-<br/><br/>
+<br/><br/><br/>
 
 <img src="https://img.shields.io/badge/BUILDING-Backend%20Systems-161B22?style=for-the-badge&labelColor=1F6FEB" alt="Building Backend">
 &nbsp;
@@ -199,13 +207,17 @@ Java · Spring Boot · Spring Security · PostgreSQL · JWT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8957E5,100:0D1117&height=2" width="50%"/><br/><sub>TWO LAYERS · ONE ENGINEERING DIRECTION</sub>
 
-</div><br/><table><tr><td width="50%" valign="top"><div align="center">⚙ Engineering
+</div><br/><br/>
+
+<table align="center" width="78%"><tr><td width="50%" valign="top" align="center">⚙ Engineering
 
 <img src="https://img.shields.io/badge/FOUNDATION-1F6FEB?style=flat-square&labelColor=161B22" alt="Foundation"><br/><br/>
 
 Reliable backend systems
 
-<br/>"APIs"
+<br/><br/>
+
+"APIs"
 
 ↓
 
@@ -227,13 +239,15 @@ Reliable backend systems
 
 "Architecture"
 
-</div></td><td width="50%" valign="top"><div align="center">◈ Intelligence
+</td><td width="50%" valign="top" align="center">◈ Intelligence
 
 <img src="https://img.shields.io/badge/INTELLIGENCE-6E40C9?style=flat-square&labelColor=161B22" alt="Intelligence"><br/><br/>
 
 Useful intelligence on top
 
-<br/>"Retrieval"
+<br/><br/>
+
+"Retrieval"
 
 ↓
 
@@ -255,7 +269,7 @@ Useful intelligence on top
 
 "Applied Systems"
 
-</div></td></tr></table><br/><br/>
+</td></tr></table><br/><br/><br/>
 
 <div align="center">Strong engineering underneath.
 
