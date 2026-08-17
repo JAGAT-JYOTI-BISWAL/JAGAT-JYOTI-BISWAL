@@ -1,96 +1,178 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,40:0d2137,70:112a45,100:0a192f&height=210&section=header&text=Jagat%20Jyoti%20Biswal&fontSize=44&fontColor=ccd6f6&animation=fadeIn&fontAlignY=44&desc=Backend%20Engineering%20%C3%97%20Applied%20AI&descSize=18&descAlignY=66&descColor=64ffda" width="100%"/><div align="center">Java · Spring Boot · Python · FastAPI · ML · RAG
+<h1 align="center">Hi, I'm Jagat Jyoti Biswal 👋</h1>
 
-Building backend systems and exploring how intelligence can become part of them.
+<h3 align="center">Backend Engineering × Applied AI</h3>
 
-<br/>""LinkedIn" (https://img.shields.io/badge/LinkedIn-0a192f?style=flat-square&logo=linkedin&logoColor=64ffda)" (https://linkedin.com/in/jagatjyotibiswal)
- 
-""Portfolio" (https://img.shields.io/badge/Portfolio-0a192f?style=flat-square&logo=netlify&logoColor=64ffda)" (https://jagatjyotibiswall-portfolio.netlify.app)
- 
-""Email" (https://img.shields.io/badge/Email-0a192f?style=flat-square&logo=gmail&logoColor=64ffda)" (mailto:jagatjyotibiswal2@gmail.com)
+<p align="center">
+  Java • Spring Boot • Python • FastAPI • Machine Learning • RAG
+</p>
 
-</div><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:064d3b,100:0a192f&height=3" width="100%"/>🌊 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/jagatjyotibiswal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jagatjyotibiswall-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio">
+  </a>
+  <a href="mailto:jagatjyotibiswal2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-I'm a Computer Science undergraduate at ITER, SOA University, interested in building reliable backend systems and applied AI/ML applications.
+---
 
-I enjoy working on the layer where software engineering meets intelligence — APIs, databases, authentication, retrieval systems, ML pipelines, and the infrastructure that connects them.
+## 👨‍💻 About Me
 
-Currently exploring Java backend engineering, applied AI, machine learning, and DSA.
+I'm a Computer Science undergraduate at **ITER, SOA University**, interested in building reliable backend systems and applied AI/ML applications.
 
-<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:0b2d45,100:0a192f&height=3" width="100%"/>🛠️ Tech Stack
+I enjoy working where **software engineering meets intelligence** — from APIs, authentication and databases to retrieval systems, machine learning pipelines and LLM-powered applications.
 
-<div align="center">Languages
+- ☕ Building with **Java, Spring Boot and Spring Security**
+- 🧠 Exploring **Applied AI, RAG and Machine Learning**
+- 🗄️ Working with **PostgreSQL, MongoDB and REST APIs**
+- 🧩 Strengthening **DSA, Core Java, SQL and backend fundamentals**
+- 🎓 B.Tech CSE — **2023–2027**
 
-""Languages" (https://skillicons.dev/icons?i=java,python,javascript&theme=dark)" (https://skillicons.dev)
+---
 
-Backend
+## 🛠️ Tech Stack
 
-""Backend" (https://skillicons.dev/icons?i=spring,fastapi,nodejs,express&theme=dark)" (https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,spring,fastapi,nodejs,express,postgresql,mongodb,mysql,docker,maven,git,github,postman&perline=8" alt="Tech Stack">
+</p>
 
-Data & Tools
+### AI / ML
 
-""Tools" (https://skillicons.dev/icons?i=postgresql,mongodb,mysql,docker,git,github,maven,postman&theme=dark)" (https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Embeddings-111827?style=flat-square" alt="Embeddings">
+  <img src="https://img.shields.io/badge/Semantic_Retrieval-111827?style=flat-square" alt="Semantic Retrieval">
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy" alt="NumPy">
+  <img src="https://img.shields.io/badge/Hugging_Face-111827?style=flat-square" alt="Hugging Face">
+</p>
 
-AI / ML
+---
 
-"RAG" (https://img.shields.io/badge/RAG-064d3b?style=flat-square&color=64ffda)
-"Embeddings" (https://img.shields.io/badge/Embeddings-064d3b?style=flat-square&color=64ffda)
-"Semantic Search" (https://img.shields.io/badge/Semantic%20Search-064d3b?style=flat-square&color=64ffda)
-"scikit-learn" (https://img.shields.io/badge/scikit--learn-1a0533?style=flat-square&color=bd93f9)
-"Pandas" (https://img.shields.io/badge/Pandas-1a0533?style=flat-square&color=bd93f9)
-"NumPy" (https://img.shields.io/badge/NumPy-1a0533?style=flat-square&color=bd93f9)
+# 🚀 Featured Projects
 
-</div><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:1a0533,100:0a192f&height=3" width="100%"/>🔭 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🧠 Context-Aware Intelligence System
+### 🧠 Context-Aware Intelligence System
 
-A RAG backend that combines semantic retrieval with LLM generation, with separate modes for comparing direct and retrieval-grounded answers.
+A **RAG-based AI backend** that compares direct LLM answers with retrieval-grounded responses using semantic search.
 
-"Python" "FastAPI" "RAG" "Embeddings" "MongoDB"
+**Python · FastAPI · RAG · Embeddings · MongoDB**
 
-"GitHub" (https://github.com/JAGAT-JYOTI-BISWAL/context-aware-intelligence-system-python) · "Live" (https://context-aware-intelligence-system-python.onrender.com)
+<a href="https://github.com/JAGAT-JYOTI-BISWAL/context-aware-intelligence-system-python">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
+</a>
+<a href="https://context-aware-intelligence-system-python.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
+</a>
 
-<br/>📊 Smart Learning Analytics
+</td>
 
-An end-to-end ML system that turns educational activity data into student-performance predictions — from data preparation and feature engineering to model serving.
+<td width="50%" valign="top">
 
-"Python" "scikit-learn" "Pandas" "FastAPI" "Docker"
+### 📊 Smart Learning Analytics
 
-"GitHub" (https://github.com/JAGAT-JYOTI-BISWAL/smart-learning-analytics) · "Live" (https://smart-learning-analytics-6cxe.onrender.com)
+An **end-to-end machine learning system** that transforms educational activity data into student-performance predictions.
 
-<br/>🏥 Clinic Appointment System
+**Python · scikit-learn · Pandas · FastAPI · Docker**
 
-A Spring Boot appointment platform built around real scheduling rules and separate workflows for patients, doctors, and administrators.
+<a href="https://github.com/JAGAT-JYOTI-BISWAL/smart-learning-analytics">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
+</a>
+<a href="https://smart-learning-analytics-6cxe.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
+</a>
 
-"Java" "Spring Boot" "Spring Security" "PostgreSQL" "JWT"
+</td>
+</tr>
 
-"GitHub" (https://github.com/JAGAT-JYOTI-BISWAL/clinic-appointment-system) · "Live" (https://clinic-appointment-system-tn4l.onrender.com)
+<tr>
+<td width="50%" valign="top">
 
-<br/>🔐 Secure Contact Management System
+### 🏥 Clinic Appointment System
 
-A multi-user REST API where authentication, authorization, and ownership rules keep each user's contacts securely isolated.
+A **role-based Spring Boot platform** with scheduling rules and separate workflows for patients, doctors and administrators.
 
-"Java" "Spring Boot" "Spring Security" "PostgreSQL" "JWT"
+**Java · Spring Boot · Spring Security · PostgreSQL · JWT**
 
-"GitHub" (https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-manager-java) · "Live" (https://secure-contact-manager-java-u7qw.onrender.com)
+<a href="https://github.com/JAGAT-JYOTI-BISWAL/clinic-appointment-system">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
+</a>
+<a href="https://clinic-appointment-system-tn4l.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
+</a>
 
-<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:064d3b,100:0a192f&height=3" width="100%"/>📊 GitHub
+</td>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JAGAT-JYOTI-BISWAL&show_icons=true&bg_color=0a192f&border_color=1e3a5f&title_color=64ffda&icon_color=bd93f9&text_color=ccd6f6" height="165"/><br/><br/>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGAT-JYOTI-BISWAL&bg_color=0a192f&color=64ffda&line=64ffda&point=bd93f9&area=true&area_color=064d3b&hide_border=true&custom_title=Contribution%20Activity" width="96%"/></div><br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:0d3326,100:0a192f&height=3" width="100%"/>🧬 Beyond Code
+### 🔐 Secure Contact Management
 
-I'm also curious about health, longevity, psychology, nutrition, and preventive health.
+A **secure multi-user REST API** focused on JWT authentication, authorization and per-user data isolation.
 
-Long term, I'm especially interested in what happens when software, AI, data, and human health meet — not as separate interests, but as problems worth building useful systems around.
+**Java · Spring Boot · Spring Security · PostgreSQL · JWT**
 
-<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:064d3b,100:0a192f&height=3" width="100%"/>🌐 Connect
+<a href="https://github.com/JAGAT-JYOTI-BISWAL/secure-contact-manager-java">
+  <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github" alt="Repository">
+</a>
+<a href="https://secure-contact-manager-java-u7qw.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Render-46E3B7?style=flat-square&logo=render&logoColor=000000" alt="Live">
+</a>
 
-<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-jagatjyotibiswal-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda)" (https://linkedin.com/in/jagatjyotibiswal)
+</td>
+</tr>
+</table>
 
-""Portfolio" (https://img.shields.io/badge/Portfolio-Visit-0a192f?style=for-the-badge&logo=netlify&logoColor=64ffda)" (https://jagatjyotibiswall-portfolio.netlify.app)
+---
 
-""Email" (https://img.shields.io/badge/Email-Contact-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda)" (mailto:jagatjyotibiswal2@gmail.com)
+## 📈 GitHub Activity
 
-<br/>Build systems. Understand deeply. Keep improving.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JAGAT-JYOTI-BISWAL&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,40:0d2137,70:112a45,100:0a192f&height=110&section=footer&animation=fadeIn" width="100%"/></div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGAT-JYOTI-BISWAL&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGAT-JYOTI-BISWAL&theme=github-compact&hide_border=true" width="95%" alt="Contribution Graph">
+</p>
+
+---
+
+## 🌱 Beyond Code
+
+I'm also interested in **health, longevity, psychology, nutrition and preventive health**.
+
+Long term, I'm especially curious about the intersection of:
+
+<p align="center">
+  <b>Software × AI × Data × Human Health</b>
+</p>
+
+and how intelligent systems can make complex information more useful and understandable.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/jagatjyotibiswal">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagat_Jyoti_Biswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://jagatjyotibiswall-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <i>Build deeply. Understand clearly. Keep improving.</i>
+</p>
