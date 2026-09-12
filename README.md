@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://jagatjyotibiswall-portfolio.netlify.app">
+  <a href="https://lipunjyoti4-protfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=161B22" alt="Portfolio">
   </a>
   &nbsp;
@@ -545,7 +545,7 @@ Find Me
 </a>
 &nbsp;
 
-<a href="https://jagatjyotibiswall-portfolio.netlify.app">
+<a href="https://lipunjyoti4-protfolio.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-View%20Work-161B22?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=30363D" alt="Portfolio">
 </a>
 &nbsp;
