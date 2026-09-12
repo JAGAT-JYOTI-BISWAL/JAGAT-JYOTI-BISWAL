@@ -13,17 +13,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1600&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+%E2%86%92+APIs+%C2%B7+Security+%C2%B7+Data+%C2%B7+Business+Logic;AI%2FML+%E2%86%92+RAG+%C2%B7+Retrieval+%C2%B7+Embeddings+%C2%B7+Models;Engineering+systems+from+APIs+to+intelligence." alt="Engineering Focus">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1600&color=58A6FF&center=true&vCenter=true&width=620&lines=AI%2FML+%E2%86%92+RAG+%C2%B7+Retrieval+%C2%B7+Embeddings+%C2%B7+Models;Backend+%E2%86%92+APIs+%C2%B7+Security+%C2%B7+Data+%C2%B7+Business+Logic;Building+intelligent+systems+end+to+end." alt="Engineering Focus">
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <code>Java</code>
-  &nbsp;·&nbsp;
-  <code>Spring Boot</code>
-  &nbsp;·&nbsp;
   <code>Python</code>
   &nbsp;·&nbsp;
   <code>FastAPI</code>
@@ -31,6 +27,10 @@
   <code>Machine Learning</code>
   &nbsp;·&nbsp;
   <code>RAG</code>
+  &nbsp;·&nbsp;
+  <code>Java</code>
+  &nbsp;·&nbsp;
+  <code>Spring Boot</code>
 </p>
 
 <br/>
@@ -69,14 +69,14 @@ Profile
 
 <br/>
 
-<sub>BACKEND ENGINEERING · APPLIED AI · COMPUTER SCIENCE</sub>
+<sub>APPLIED AI · BACKEND ENGINEERING · COMPUTER SCIENCE</sub>
 
 <br/><br/>
 
-Building reliable software systems and extending them with useful intelligence.
+Building intelligent applications on top of reliable software systems.
 
 Computer Science undergraduate at ITER, SOA University,
-working across backend engineering, applied AI/ML and intelligent applications.
+working across applied AI/ML and backend engineering.
 
 </div>
 
@@ -139,11 +139,11 @@ Intelligence Layer
 </p>
 
 <p align="center">
-  <strong>Java & Spring Boot</strong>
+  <strong>Applied AI/ML</strong>
   &nbsp;·&nbsp;
   <strong>Python & FastAPI</strong>
   &nbsp;·&nbsp;
-  <strong>Applied AI/ML</strong>
+  <strong>Java & Spring Boot</strong>
   &nbsp;·&nbsp;
   <strong>DSA & SQL</strong>
 </p>
@@ -212,7 +212,15 @@ Backend & Data
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgresql,mongodb,mysql&theme=dark&perline=7" alt="Backend and Data">
+<img src="https://skillicons.dev/icons?i=spring,fastapi,postgresql,mongodb,mysql&theme=dark&perline=5" alt="Backend and Data">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Spring_Security-161B22?style=flat-square&logo=springsecurity&logoColor=6DB33F" alt="Spring Security">
+&nbsp;
+<img src="https://img.shields.io/badge/Spring_Data_JPA-161B22?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Data JPA">
+&nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&labelColor=102A43" alt="REST APIs">
 
 </div>
 
@@ -232,7 +240,7 @@ AI / ML
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square&color=161B22&labelColor=238636" alt="LLM Integration">
+<img src="https://img.shields.io/badge/LLM_Integration-161B22?style=flat-square&labelColor=238636" alt="LLM Integration">
 &nbsp;
 <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
 &nbsp;
@@ -245,8 +253,22 @@ AI / ML
 <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
 &nbsp;
 <img src="https://img.shields.io/badge/Groq_API-161B22?style=flat-square" alt="Groq API">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+Security
+
+<br/>
+
+<img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=1F6FEB" alt="JWT">
 &nbsp;
-<img src="https://img.shields.io/badge/Model_Deployment-161B22?style=flat-square&labelColor=102A43" alt="Model Deployment">
+<img src="https://img.shields.io/badge/Argon2-161B22?style=for-the-badge&labelColor=6E40C9" alt="Argon2">
+&nbsp;
+<img src="https://img.shields.io/badge/BCrypt-161B22?style=for-the-badge&labelColor=238636" alt="BCrypt">
 
 </div>
 
@@ -384,7 +406,7 @@ Engineering Pulse
 
 <br/><br/><br/>
 
-<img src="https://img.shields.io/badge/BUILDING-Backend%20Systems-161B22?style=for-the-badge&labelColor=1F6FEB" alt="Building Backend Systems">
+<img src="https://img.shields.io/badge/BUILDING-AI%20Applications-161B22?style=for-the-badge&labelColor=1F6FEB" alt="Building AI Applications">
 &nbsp;
 <img src="https://img.shields.io/badge/EXPLORING-RAG%20%26%20Applied%20AI-161B22?style=for-the-badge&labelColor=6E40C9" alt="Exploring Applied AI">
 
@@ -392,7 +414,7 @@ Engineering Pulse
 
 <img src="https://img.shields.io/badge/STRENGTHENING-DSA%20%26%20SQL-161B22?style=for-the-badge&labelColor=238636" alt="Strengthening">
 &nbsp;
-<img src="https://img.shields.io/badge/ENGINEERING-Spring%20Boot%20%26%20FastAPI-161B22?style=for-the-badge&labelColor=B07219" alt="Backend Engineering">
+<img src="https://img.shields.io/badge/ENGINEERING-FastAPI%20%26%20Spring%20Boot-161B22?style=for-the-badge&labelColor=B07219" alt="Backend Engineering">
 
 <br/><br/><br/>
 
